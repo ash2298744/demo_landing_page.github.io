@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+.card.card-primary{
+    padding: 95px;
+}
+
+.container{
+    margin: -44px 427px;
+}
+
+.card-footer.text-right{
+    margin: 0px 594px 0px 0px;
+}
